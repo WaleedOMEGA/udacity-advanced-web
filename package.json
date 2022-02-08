@@ -1,0 +1,19 @@
+{
+  "name": "udacity-advanced-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaleedOMEGA/udacity-advanced-web.git"
+  },
+  "author": "waleedomega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaleedOMEGA/udacity-advanced-web/issues"
+  },
+  "homepage": "https://github.com/WaleedOMEGA/udacity-advanced-web#readme"
+}
